@@ -4,7 +4,7 @@ Home page of the the University of Birmingham Education Technology in STEMM proj
 
 [Contribution guide](https://github.com/UoBEdTechSTEMM/Contribution)
 
-## Our work: :tada:
+## Our work :tada:
 
 * [Matrix Transformations Visualisation](https://github.com/UoBEdTechSTEMM/MatrixTransforms)
 * [Spin Visualisation](https://github.com/UoBEdTechSTEMM/SpinVisualisation)
