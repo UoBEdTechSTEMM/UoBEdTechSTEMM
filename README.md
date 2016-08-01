@@ -2,7 +2,7 @@
 
 Home page of the the University of Birmingham Education Technology in STEMM project.
 
-[Contribution guide](https://github.com/UoBEdTechSTEMM/Contribution)
+[Contribution guide :crystal_ball:](https://github.com/UoBEdTechSTEMM/Contribution)
 
 ## Our work :tada:
 
