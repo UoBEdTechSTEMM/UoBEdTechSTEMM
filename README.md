@@ -6,6 +6,7 @@ Home page of the the University of Birmingham Education Technology in STEMM proj
 
 ## Our work :tada:
 
+* [Matrix Inverse Visualisation](https://github.com/UoBEdTechSTEMM/SimpleMatrixInverse)
 * [Matrix Transformations Visualisation](https://github.com/UoBEdTechSTEMM/MatrixTransforms)
 * [Spin Visualisation](https://github.com/UoBEdTechSTEMM/SpinVisualisation)
 * [Taylor Series Visualisation](https://github.com/UoBEdTechSTEMM/TaylorSeriesVisualisation)
